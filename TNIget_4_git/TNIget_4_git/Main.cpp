@@ -9,7 +9,7 @@ void Main()
 	//BallManager ballmanager;
 	int conf = 1;
 	int num = 1;
-	int test=0;
+	int test=1;
 
 	while (System::Update())
 	{
